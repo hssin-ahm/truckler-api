@@ -1,0 +1,10 @@
+[
+    {
+        "truck": "624e82ec679961d5dd283a56",
+        "type": "Fuel fill",
+        "price": "2200",
+        "date": "01/03/2022",
+        "invoice_ref": "357847414",
+        "Fournisseur": "624a4169479fb7372d864b65"
+    }
+]

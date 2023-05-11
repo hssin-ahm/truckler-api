@@ -1,0 +1,14 @@
+[
+    {
+        "id_": "5d7a514b5d2c12c7449be046",
+        "speed": "60",
+        "mileage": "5840KM",
+        "fuel": "Diesel"
+    },
+    {
+        "id_": "5d7a514b5d2c12d7449be046",
+        "speed": "80",
+        "mileage": "5660KM",
+        "fuel": "Hybride"
+    }
+]
